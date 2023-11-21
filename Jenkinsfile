@@ -51,6 +51,11 @@ pipeline {
             steps {
                 echo 'OfficersModeOnnn'
             }
+        }
+     stage('Naushad') {
+            steps {
+                echo 'Baba'
+            }
         }   
         
     }
