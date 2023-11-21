@@ -66,6 +66,11 @@ pipeline {
             steps {
                 echo 'HafizSahab'
             }
-        }  
+        } 
+     stage('MohammadQadran') {
+            steps {
+                echo 'LoveYou'
+            }
+        } 
     }
 }
