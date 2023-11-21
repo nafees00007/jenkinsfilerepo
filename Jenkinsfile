@@ -49,7 +49,7 @@ pipeline {
         }
      stage('ManzoorAhmad') {
             steps {
-                echo 'OfficersMode'
+                echo 'OfficersModeOnnn'
             }
         }   
         
