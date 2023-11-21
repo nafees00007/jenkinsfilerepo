@@ -62,6 +62,10 @@ pipeline {
                 echo 'WakilSab'
             }
         }   
-        
+     stage('Sadat') {
+            steps {
+                echo 'HafizSahab'
+            }
+        }  
     }
 }
