@@ -46,7 +46,12 @@ pipeline {
             steps {
                 echo 'BabaBarfani'
             }
-        }    
+        }
+     stage('ManzoorAhmad') {
+            steps {
+                echo 'OfficersMode'
+            }
+        }   
         
     }
 }
