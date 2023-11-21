@@ -56,6 +56,11 @@ pipeline {
             steps {
                 echo 'Baba'
             }
+        }
+     stage('Khaliue') {
+            steps {
+                echo 'WakilSab'
+            }
         }   
         
     }
